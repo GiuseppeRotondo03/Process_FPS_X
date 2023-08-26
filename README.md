@@ -6,7 +6,7 @@ To start, since it was the first time I'd done such a big level, I created a sma
 
 ## #From the feedback and analysis it emerged that:
 - It's too claustrophobic. The player must know where to go, but he must not be forced to follow a path.
-- Little light enters, you can see very little
+- Poor light, hard to see
 - Too many different colors, little contrast between the background and the props in the ground
 - Too many branches, just create unnecessary confusion
 - I rely too much on trunk, I have to leave them as help, not base the level on them
