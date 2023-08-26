@@ -4,6 +4,7 @@ To start, since it was the first time I'd done such a big level, I created a sma
 
 ![S](/giuseppe-rotondo-highresscreenshot00014.png)
 
+# #Feedback and fix
 ## #From the feedback and analysis it emerged that:
 - It's too claustrophobic. The player must know where to go, but he must not be forced to follow a path.
 - Poor light, hard to see
