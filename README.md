@@ -9,7 +9,7 @@ To start, since it was the first time I'd done such a big level, I created a sma
 - Little light enters, you can see very little
 - Too many different colors, little contrast between the background and the props in the ground
 - Too many branches, just create unnecessary confusion
-- I rely too much on hiding behind logs, I have to leave them as help, not base the level on them
+- I rely too much on hiding behind tunk, I have to leave them as help, not base the level on them
 - Enemies are too close together, the player can't play the level stealthily
 
 ![S](/giuseppe-rotondo-highresscreenshot00005.png)
