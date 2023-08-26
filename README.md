@@ -13,6 +13,15 @@ To start, since it was the first time I'd done such a big level, I created a sma
 - I rely too much on trunk, I have to leave them as help, not base the level on them
 - Enemies are too close together, the player can't play the level stealthily
 
+## #Fix in the new level
+- [Claustrophobic] In the new level, I created large spaces where enemies stop to rest, the player feels less oppressed
+- [light enters] Made the trees much taller and with the canopy blocking less light, greatly increasing visibility
+- [Too many different colors] I decreased the difference of colors and played much more on Black and White. There are now fewer colors, the ground and non-interactable props are dark gray and the background is white. In this way the white of the walls creates contrast and increases the incoming light
+- [Too many branches] in the new level they are all covered by a canopy, the only ones not covered are short and have interactable objects on them (birds nests)
+- I rely too much on hiding behind logs, in the new level the efficiency of using all the props is significantly increased, so it looks not just a forest but a real outpost
+- Enemies are too close together, in the new level there are large spaces where there are enemies, but also small groups of sentries, far from the groups
+
+# #Screenshot
 ![S](/giuseppe-rotondo-highresscreenshot00005.png)
 ![S](/giuseppe-rotondo-highresscreenshot00025.png)
 ![S](/giuseppe-rotondo-highresscreenshot00022.png)
