@@ -24,7 +24,7 @@ To start, since it was the first time I'd done such a big level, I created a sma
 # #Creation of the new level, process
 I started with some big shapes, so that I understood the dimensions of the level, then I created 2 different groups of enemies (the ones around the fire). After having the rocks, I added groups of enemies and changed the placement of both over and over. Finally, I added trees, fallen logs, bushes, crates and birds' nests, and tall grass to help (or not) the player deal with enemies.
 
-# #Screenshot
+# #Screenshots [OLD LEVEL]
 ![S](/giuseppe-rotondo-highresscreenshot00005.png)
 ![S](/giuseppe-rotondo-highresscreenshot00025.png)
 ![S](/giuseppe-rotondo-highresscreenshot00022.png)
